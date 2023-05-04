@@ -1,0 +1,9 @@
+*
+!.poshthemes
+!.poshthemes/*
+
+!.bashrc
+!.bash_aliases
+
+!.gitignore
+!.gitconfig
