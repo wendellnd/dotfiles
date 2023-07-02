@@ -1,6 +1,6 @@
 alias charles='~/Downloads/charles-proxy-4.6.3_amd64/charles/bin/charles >/dev/null 2>&1 &'
 
-# GIT ALIAS
+# GIT
 alias gp='git pull'
 alias ga='git add'
 alias gm='git merge'
