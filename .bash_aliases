@@ -9,3 +9,7 @@ alias gph='git push'
 alias gco='git checkout'
 alias gsh='git stash'
 alias gcp='git cherry-pick'
+
+#PHP
+alias phpstart='systemctl enable httpd; systemctl start httpd; systemctl enable mysqld; systemctl start mysqld'
+alias phpstop='systemctl stop httpd; systemctl stop mysqld'
