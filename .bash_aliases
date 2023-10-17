@@ -13,4 +13,10 @@ alias gcp='git cherry-pick'
 #PHP
 alias phpstart='systemctl enable httpd; systemctl start httpd; systemctl enable mysqld; systemctl start mysqld'
 alias phpstop='systemctl stop httpd; systemctl stop mysqld'
-alias phpserver='sudo php --server localhost:8080 --docroot  .'
+alias phpserver='php --server localhost:8080 --docroot  .'
+
+# GNOME
+alias cdgnome='cd ~/.local/share/gnome-shell/extensions'
+
+# DOCKER
+alias dockerstart='systemctl start docker'
