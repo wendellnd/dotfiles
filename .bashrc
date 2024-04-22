@@ -30,6 +30,8 @@ fi
 
 eval "$(oh-my-posh init bash --config ~/.poshthemes/tokyonight_storm.omp.json)"
 
+eval "$(zoxide init zsh)"
+
 unset rc
 
 export NVM_DIR="$HOME/.nvm"
